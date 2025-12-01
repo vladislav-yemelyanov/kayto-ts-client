@@ -1,6 +1,6 @@
 ## Kayto TypeScript Client — End-to-End Type-Safe API Client
 
-This is the future API client designed to work seamlessly with 🦀**[Kayto](https://github.com/vladislav-yemelyanov/kayto)**.
+This is the future API client designed to work seamlessly with 🦀[Kayto](https://github.com/vladislav-yemelyanov/kayto).
 
 I’ve already finished an extremely powerful, fully type-safe API specification layer in `spec.ts`.
 
